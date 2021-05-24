@@ -10,9 +10,9 @@
 }
 .navbar li a{
     display: block;
-    color: darkblue;
+    color: white;
     padding: 14px  16px;
-    text-decoration: darkblue;
+    text-decoration: white;
     margin-left: 120px;
     font-family:'Franklin Gothic Medium';
      }
